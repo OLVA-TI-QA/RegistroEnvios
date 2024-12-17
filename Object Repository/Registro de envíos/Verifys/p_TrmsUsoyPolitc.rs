@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_TrmsUsoyPolitc</name>
+   <tag></tag>
+   <elementGuidId>18912027-77f7-441e-b4f6-36a43bc0032c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#myModal > div.modal-dialog.modal-lg > div.modal-content > div.modal-header > p.heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myModal']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8e2b6beb-5953-4bc7-9388-ec06000c8ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>03279282-8cc3-44e4-8765-1e13063b64b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Términos de uso y políticas de privacidad (Vigencia 06/10/2023)</value>
+      <webElementGuid>4ac71c17-7325-4b9e-8d97-15cea0532a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModal&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/p[@class=&quot;heading&quot;]</value>
+      <webElementGuid>5522e79c-27c9-4832-bc76-cdc18c4b87b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myModal']/div/div/div/p</value>
+      <webElementGuid>8531920b-3147-4dd7-8ee7-104873e511fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar'])[2]/following::p[1]</value>
+      <webElementGuid>71184015-67c0-4210-a9be-77718006befb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dos días hábiles a la fecha de tu compra.'])[1]/following::p[1]</value>
+      <webElementGuid>5ded135c-c729-44b6-ae64-4a489ee7cc77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introducción'])[1]/preceding::p[1]</value>
+      <webElementGuid>cb6f8a2f-183b-4789-ab4b-ccb2e9a8beba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://atc.olvaexpress.pe/user/logout'])[1]/preceding::p[1]</value>
+      <webElementGuid>a3f1b6f7-392b-49ba-a16c-66396cc5b914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Términos de uso y políticas de privacidad (Vigencia 06/10/2023)']/parent::*</value>
+      <webElementGuid>a536e748-d5c3-477f-b95f-7fa98915dc4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/p</value>
+      <webElementGuid>be0fe99d-04ba-4973-96c5-81b46fab75ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Términos de uso y políticas de privacidad (Vigencia 06/10/2023)' or . = 'Términos de uso y políticas de privacidad (Vigencia 06/10/2023)')]</value>
+      <webElementGuid>dc09ff90-cbd3-4ceb-bb0e-a14da70d4f6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

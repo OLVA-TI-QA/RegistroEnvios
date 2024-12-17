@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_0.00</name>
+   <tag></tag>
+   <elementGuidId>cd505a5a-9ddf-48e3-8baf-a076fb5322b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='blueTable']/tbody/tr/th[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>bb9a8b71-f8a4-4548-b504-5636377a04a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S/ 0.00</value>
+      <webElementGuid>45b38db9-6fd3-4eba-a23c-7e26872b7cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blueTable_wrapper&quot;)/table[@id=&quot;blueTable&quot;]/tbody[1]/tr[@class=&quot;odd&quot;]/th[7]</value>
+      <webElementGuid>5886b8c7-253a-4c59-b36d-321d381065dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='blueTable']/tbody/tr/th[7]</value>
+      <webElementGuid>0f621418-cb08-4e88-b224-6628a438e912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='calle de las bellas artes 122, san borja, lima, lima, perú'])[1]/following::th[1]</value>
+      <webElementGuid>467465d6-3b44-48d8-9426-04b0a223231f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lima - lima - san borja'])[1]/following::th[2]</value>
+      <webElementGuid>7f603359-c0c1-4d98-ae14-80681d27f1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 7.30'])[1]/preceding::th[1]</value>
+      <webElementGuid>0422842c-82c7-429b-9cf7-03c73f067953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[1]/preceding::th[2]</value>
+      <webElementGuid>46181e61-515f-4c91-b4d4-35cb7d3b338a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='S/ 0.00']/parent::*</value>
+      <webElementGuid>53648e41-89ea-4512-a406-a3a1eaa2b3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th[7]</value>
+      <webElementGuid>c0059ef7-e085-483b-8bb0-db02ebbdd28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'S/ 0.00' or . = 'S/ 0.00')]</value>
+      <webElementGuid>6a6e8492-0e84-4360-a468-1507393e3d87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

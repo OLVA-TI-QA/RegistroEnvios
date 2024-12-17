@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Aceptar</name>
+   <tag></tag>
+   <elementGuidId>142f38f0-a287-4714-9a30-649aa01a4644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonAceptarClave']/h3/center/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonAceptarClave > h3 > center > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>98687541-e9e0-4c15-ba10-e8070fe0c4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aceptar</value>
+      <webElementGuid>c92530b2-1203-4a84-8465-3b000762246f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonAceptarClave&quot;)/h3[1]/center[1]/b[1]</value>
+      <webElementGuid>2ba5477d-5049-4c70-a45e-cf982f970d67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttonAceptarClave']/h3/center/b</value>
+      <webElementGuid>7f10727f-cb3e-4383-9761-6086f97f779f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Envía la clave de seguridad a la persona que vaa recoger el envío.'])[1]/following::b[1]</value>
+      <webElementGuid>347bcc5e-948f-426e-a5cc-17dd95474c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡IMPORTANTE!'])[1]/following::b[1]</value>
+      <webElementGuid>9f9d7d91-9235-4dd2-8386-8e227a821905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[5]/preceding::b[1]</value>
+      <webElementGuid>f5b6ae1b-aabb-4bfb-ac39-e9e09460373f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking Web'])[1]/preceding::b[1]</value>
+      <webElementGuid>06e3abfb-20f0-459d-bfb0-6134c01f1618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h3/center/b</value>
+      <webElementGuid>96ab4136-779d-447c-9a62-4cd985db41d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Aceptar' or . = 'Aceptar')]</value>
+      <webElementGuid>007cdea2-6ad2-4dc6-9cfa-694be95ff090</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

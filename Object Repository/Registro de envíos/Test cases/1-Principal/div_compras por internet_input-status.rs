@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_compras por internet_input-status</name>
+   <tag></tag>
+   <elementGuidId>0aebbe00-d4fd-40a9-9310-059447cfbf31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datosgenerales']/div/section/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#datosgenerales > div.col.col-6-1.sep.landscape-col.landscape-col-6-1 > section > label.input > div.input-status</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3b5ffcb-5c99-469a-abbd-a844fe2370e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-status</value>
+      <webElementGuid>0c783653-8353-4bbe-9b9e-d34f33c3040f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datosgenerales&quot;)/div[@class=&quot;col col-6-1 sep landscape-col landscape-col-6-1&quot;]/section[1]/label[@class=&quot;input&quot;]/div[@class=&quot;input-status&quot;]</value>
+      <webElementGuid>0dc247cc-a9f5-463d-b288-a83839def0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Registro de envíos/Test cases/1-Principal/iframe_Aceptar_visaNetJS</value>
+      <webElementGuid>9b995fb6-859a-4eab-8e5b-eaf1f2b4b454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datosgenerales']/div/section/label/div</value>
+      <webElementGuid>f65bb8fc-b184-4d91-8084-2e5017651555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/section/label/div</value>
+      <webElementGuid>c90d7f48-336b-46ba-883b-44a324afb97e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SI, DESEO REALIZAR LOS ENVOS</name>
+   <tag></tag>
+   <elementGuidId>acb4e6f5-4a3d-4a88-bb95-166576c1ea16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalConfirmacion > div.modal-dialog.modal-lg > div.modal-content > div.modal-footer > center > button.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>987f46d0-4c5b-4be5-a4df-eb35d22df81a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a708c58b-decc-418c-a206-49a966a07797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>94b15c5d-6f6d-411b-9cda-0ee50250cb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>closeModalConfirmacion()</value>
+      <webElementGuid>3e19f094-e64e-40d6-88c9-c489caed3f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SI, DESEO REALIZAR LOS ENVÍOS</value>
+      <webElementGuid>03f34486-cd06-49c8-8e9d-8217b53b71d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalConfirmacion&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/center[1]/button[@class=&quot;btn&quot;]</value>
+      <webElementGuid>c978fa48-2eeb-4971-96d2-22d6c3cebd04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>767f7d9f-2486-4648-8863-b1779684f558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalConfirmacion']/div/div/div[2]/center/button</value>
+      <webElementGuid>2b0d17fc-b769-48f0-b816-cad7a2f2416e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Desea continuar?'])[1]/following::button[1]</value>
+      <webElementGuid>245f4efa-626e-4908-a760-b58e7152ee20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO, COMPLETARÉ LOS CAMPOS'])[1]/preceding::button[1]</value>
+      <webElementGuid>6b02da5e-40fb-4f6a-8a5f-c8936dc5aae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SI, DESEO REALIZAR LOS ENVÍOS']/parent::*</value>
+      <webElementGuid>637cbf89-aed4-4cf8-8e2b-23237634f381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/center/button</value>
+      <webElementGuid>1c48f3f7-b1b2-4452-bb1c-5f17d2e14410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'SI, DESEO REALIZAR LOS ENVÍOS' or . = 'SI, DESEO REALIZAR LOS ENVÍOS')]</value>
+      <webElementGuid>31e6e605-2e89-4363-bb57-b4bb6bbdfef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_regulacin de envos y la declaracin Jurada</name>
+   <tag></tag>
+   <elementGuidId>b4e8fd4d-5c5d-4ad9-b7a6-152437eac499</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='verJuramento']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#verJuramento</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>963e4496-002f-4714-9def-a3fe88dfa8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>verJuramento</value>
+      <webElementGuid>737b26f5-34a9-4b61-965c-8c24e85e9ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>1647b796-e487-484c-8d2e-82d3dc9bdcb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>regulación de envíos y la declaración Jurada.
+                                </value>
+      <webElementGuid>4b620f3c-a30e-43fe-a839-7d8484af883e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;verJuramento&quot;)</value>
+      <webElementGuid>886b2f94-0e74-49ec-a8dd-faa49774c394</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='verJuramento']</value>
+      <webElementGuid>ddf48be3-5862-41a6-9145-65a9077d8ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='op_regulacion']/ul/label/a</value>
+      <webElementGuid>9788427f-7d2e-4941-8472-195587dc1e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'regulación de envíos y la declaración Jurada.')]</value>
+      <webElementGuid>43615b19-f99e-4d42-8b68-fff8cbbd46d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='He leído la'])[1]/following::a[1]</value>
+      <webElementGuid>8840cc55-5d85-4688-b3bd-6826abc79869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 1234.00'])[1]/following::a[1]</value>
+      <webElementGuid>8e4b5997-c228-4d71-acff-44fe191677d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaro bajo juramento los productos escritos en el registro de envíos.'])[1]/preceding::a[1]</value>
+      <webElementGuid>ce28ef27-ecff-4dc3-aec3-0cb9e53ce964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/preceding::a[1]</value>
+      <webElementGuid>c2484776-c513-4d73-94e6-920a7c1348ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='regulación de envíos y la declaración Jurada.']/parent::*</value>
+      <webElementGuid>999cf206-4cb6-445c-b389-0599391d8e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>ab9fc1cd-fbed-43f5-9b55-617a22d6b9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/a</value>
+      <webElementGuid>3070eb76-6236-4c3f-8652-278a0278affc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'verJuramento' and @href = '#' and (text() = 'regulación de envíos y la declaración Jurada.
+                                ' or . = 'regulación de envíos y la declaración Jurada.
+                                ')]</value>
+      <webElementGuid>76dcca37-44ca-43d0-9150-2275cb5ea51e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

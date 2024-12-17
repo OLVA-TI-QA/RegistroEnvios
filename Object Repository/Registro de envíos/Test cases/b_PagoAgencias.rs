@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_PagoAgencias</name>
+   <tag></tag>
+   <elementGuidId>d1248b78-b0a5-464c-9727-f6a08379172c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pago2 > div.col-md-12 > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='pago2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>6967c2c8-3406-4ee7-b667-e9bcdda6bb56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pago en agencias y banca por internet.</value>
+      <webElementGuid>dae4fff9-8b38-4e4c-972b-b0dbd1987ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pago2&quot;)/div[@class=&quot;col-md-12&quot;]/b[1]</value>
+      <webElementGuid>b7002be8-b196-404b-bf0d-64e1f653d18b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//*[@id='pago2']
+</value>
+      <webElementGuid>91cb6ac4-e0bd-4172-85c1-616078ed16f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago con tarjeta de crédito, débito y Yape.'])[1]/following::b[1]</value>
+      <webElementGuid>43243dba-01a7-49c5-b50a-de09f8d03cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elige tu medio de pago'])[1]/following::b[2]</value>
+      <webElementGuid>fb542b23-11e4-4924-9ea4-59a556701b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resumen de tu registro'])[1]/preceding::b[1]</value>
+      <webElementGuid>48d22554-13c2-456d-a7cb-e0046daa0d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de envíos:'])[1]/preceding::b[1]</value>
+      <webElementGuid>2456ce71-0092-4846-afb1-8ea15dd39fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pago en agencias y banca por internet.']/parent::*</value>
+      <webElementGuid>8e2c282b-9ac1-495c-9f34-3b6309918994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/b</value>
+      <webElementGuid>5bc19eb1-de55-4fa2-8667-91ea99e82877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Pago en agencias y banca por internet.' or . = 'Pago en agencias y banca por internet.')]</value>
+      <webElementGuid>fad0c615-3ea7-48ec-a700-101fd608b887</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

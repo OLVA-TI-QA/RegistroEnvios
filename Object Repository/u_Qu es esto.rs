@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>u_Qu es esto</name>
+   <tag></tag>
+   <elementGuidId>554f85d7-c696-4a4f-b514-122a936a3ddf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cargo_adjunto']/div[2]/h4/div/small/u</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>u</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>u</value>
+      <webElementGuid>761ada32-3d13-4fc3-83ed-ef93ea48377f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Qué es esto?</value>
+      <webElementGuid>f5835954-e411-40b8-b7c5-07d8fd3e1bc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cargo_adjunto&quot;)/div[@class=&quot;col-md-5&quot;]/h4[1]/div[@class=&quot;title-fieldset&quot;]/small[@class=&quot;text-primary&quot;]/u[1]</value>
+      <webElementGuid>452e812f-5d44-4772-aa97-c856639ee86e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cargo_adjunto']/div[2]/h4/div/small/u</value>
+      <webElementGuid>73dc950e-6924-4e58-809f-6872ecb2010f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Dónde lo entregamos?'])[1]/following::u[1]</value>
+      <webElementGuid>e68ab0f8-c010-491b-a204-f9ba7a232e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::u[1]</value>
+      <webElementGuid>d8ce1fbf-bb7f-4a58-86b2-3b05d0a2c878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/preceding::u[1]</value>
+      <webElementGuid>281e0b62-15cb-4782-8710-6e76a5b1cac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿Qué es esto?']/parent::*</value>
+      <webElementGuid>666aa82d-023b-4554-903a-991d7f4dc504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//u</value>
+      <webElementGuid>4b910350-f723-48ac-9f1c-6d455eeaeaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//u[(text() = '¿Qué es esto?' or . = '¿Qué es esto?')]</value>
+      <webElementGuid>4d769fa2-9293-4ede-8628-2b241bb36c26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

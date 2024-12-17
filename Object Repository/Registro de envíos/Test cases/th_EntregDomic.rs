@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_EntregDomic</name>
+   <tag></tag>
+   <elementGuidId>657ba111-20a4-4d02-854f-66f71b912f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='blueTable']/tbody/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.odd > th:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>4e38d4b2-b431-47ec-80e4-b8e94524489c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entrega a domicilio</value>
+      <webElementGuid>a92e71d6-379e-479f-a06b-1e8814addf09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blueTable_wrapper&quot;)/table[@id=&quot;blueTable&quot;]/tbody[1]/tr[@class=&quot;odd&quot;]/th[3]</value>
+      <webElementGuid>1424a229-e4b7-4c2c-8b33-8c6dd3fcc9f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='blueTable']/tbody/tr/th[3]</value>
+      <webElementGuid>b0c605d0-7bbc-42cd-9ff8-5176c9b7eca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='laura olva vasquez prob'])[1]/following::th[1]</value>
+      <webElementGuid>ee13da45-2386-424a-86d9-fc594198da1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precio envío'])[1]/following::th[4]</value>
+      <webElementGuid>07bc343c-337b-4c1e-991b-694c171cb4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lima'])[1]/preceding::th[1]</value>
+      <webElementGuid>3e65aa64-65a0-43bc-adf8-bc788eadc5b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='amazonas - bagua - aramango'])[1]/preceding::th[2]</value>
+      <webElementGuid>4a353ce3-55b0-4e34-80fa-d952720315ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entrega a domicilio']/parent::*</value>
+      <webElementGuid>e8f753d4-974d-4378-ae59-938ba4131723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th[3]</value>
+      <webElementGuid>a53e4fef-350b-4be7-8ebf-5054fe331036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Entrega a domicilio' or . = 'Entrega a domicilio')]</value>
+      <webElementGuid>d1f826d6-630c-454d-871a-80570da6f845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lima - lima - san borja'])[1]/preceding::th[2]</value>
+      <webElementGuid>540624a4-fa7a-46a1-97c0-a455ddac7ec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>validac_Destino_Resum</name>
+   <tag></tag>
+   <elementGuidId>62848e0a-7ab0-4846-a2b7-a0a0210080ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='blueTable']/tbody/tr/th[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>53004a7f-e115-4b41-bc4a-206986f181bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>lima - lima - san borja</value>
+      <webElementGuid>f3f3f3e9-f7c8-4c39-ab17-c2028daf48e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blueTable_wrapper&quot;)/table[@id=&quot;blueTable&quot;]/tbody[1]/tr[@class=&quot;odd&quot;]/th[5]</value>
+      <webElementGuid>6acbe970-b61f-41d0-8ded-55a74a60603b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='blueTable']/tbody/tr/th[5]</value>
+      <webElementGuid>06a17555-5b8b-4821-ad2d-952a5b218c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lima'])[1]/following::th[1]</value>
+      <webElementGuid>6930bcf9-da27-4da0-9d10-c06c938a584a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojo en tienda'])[1]/following::th[2]</value>
+      <webElementGuid>0128876f-fe29-4b06-b97f-9afa564544ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='san borja - av aviacion nro 3532'])[1]/preceding::th[1]</value>
+      <webElementGuid>41d471e9-8d94-4f98-b11f-2a1dd7cc008f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 0.00'])[1]/preceding::th[2]</value>
+      <webElementGuid>77bc55a6-5a3f-46b5-8ca7-a3e53105ef74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='lima - lima - san borja']/parent::*</value>
+      <webElementGuid>5c1a00ad-8536-432e-a400-b2974ed94580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th[5]</value>
+      <webElementGuid>9a65e06d-9e5a-4edf-a9aa-e67764b102e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'lima - lima - san borja' or . = 'lima - lima - san borja')]</value>
+      <webElementGuid>d0029b8e-5fdd-4a2c-897b-2e9b00133b93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

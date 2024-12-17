@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_FyHEntregEmp</name>
+   <tag></tag>
+   <elementGuidId>1eb9800e-637c-4f3a-bfb2-eacd9664542f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-dialog.modal-sm > div.modal-content > div.modal-header > p.heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myModalEntregaPaquetes']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>61951d85-45af-4207-84ed-400bd8f7a923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>cd9b0ce0-abc7-4178-b772-bf3e0270fb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fecha y Horario de Entrega de Empaques</value>
+      <webElementGuid>2970fbc8-79f9-45b7-a113-58994ceb17bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModalEntregaPaquetes&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/p[@class=&quot;heading&quot;]</value>
+      <webElementGuid>46215dca-67f6-495b-b4c4-b4aeb5065e92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myModalEntregaPaquetes']/div/div/div/p</value>
+      <webElementGuid>b1340bb0-9878-4716-8770-1050449be428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar'])[1]/following::p[1]</value>
+      <webElementGuid>2f34475b-b215-43c3-bfdb-fb0fd6896ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/following::p[1]</value>
+      <webElementGuid>85e39a80-9242-4686-9bf7-2e93403675d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='día siguiente hábil de la fecha de tu compra.'])[1]/preceding::p[3]</value>
+      <webElementGuid>c0d15fcc-5871-435d-8786-a918ac788425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dos días hábiles a la fecha de tu compra.'])[1]/preceding::p[4]</value>
+      <webElementGuid>01606176-6904-4e4c-b72e-71824fbcbaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>4a891cd9-df5e-4b61-80c5-ef0b82d3bbb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Fecha y Horario de Entrega de Empaques' or . = 'Fecha y Horario de Entrega de Empaques')]</value>
+      <webElementGuid>961b234f-bf42-46f3-b1e1-c6919dc9944d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
