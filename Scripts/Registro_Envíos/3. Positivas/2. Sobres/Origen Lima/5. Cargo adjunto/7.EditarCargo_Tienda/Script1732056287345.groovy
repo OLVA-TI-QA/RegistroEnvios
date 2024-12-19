@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Principal
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_sobre'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/3.Login_CE'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/4.LoginCE-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
 
@@ -30,6 +30,16 @@ WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '1
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Ingrese el punto de partida'))
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/a_LIMA'))
+
+WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Ingrese el punto de llegada'))
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Ingrese el punto de llegada'))
 
