@@ -23,12 +23,6 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_so
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/4.LoginCE-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Registro de envíos/Test cases/1-Principal/span_'), FailureHandling.STOP_ON_FAILURE)
-
 WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
 
 WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')

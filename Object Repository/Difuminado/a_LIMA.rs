@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LIMA</name>
+   <tag></tag>
+   <elementGuidId>21ef97e2-9ad3-4b3f-863e-d5ee10669e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-group.bootstrap-select.form-control.open > div.dropdown-menu.open > ul.dropdown-menu.inner.selectpicker > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div_lima']/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>661a83d4-b196-475b-9d2b-a014647eb22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3e197898-860c-4e1f-a6c7-c99b5d01606b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-normalized-text</name>
+      <type>Main</type>
+      <value>&lt;span class=&quot;text&quot;>
+                                    LIMA&lt;/span></value>
+      <webElementGuid>a0baf18a-6791-493c-8a69-5e108800990f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    LIMA</value>
+      <webElementGuid>535db18b-7da8-4297-9028-f8f0723df9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_lima&quot;)/div[@class=&quot;btn-group bootstrap-select form-control open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]</value>
+      <webElementGuid>7c8ecc96-8b92-4b28-8a2d-d1541a156479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_lima']/div/div/ul/li[2]/a</value>
+      <webElementGuid>bb526e3e-7e5d-4af6-ac61-2f189afd1cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el punto de partida'])[6]/following::a[1]</value>
+      <webElementGuid>d2baca6a-3d44-4a4c-adce-159e690a46ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el punto de partida'])[5]/following::a[2]</value>
+      <webElementGuid>baf037e0-fe4a-4bf5-b186-a41fdc12d0a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUCALLPA (CALLERIA)'])[4]/preceding::a[1]</value>
+      <webElementGuid>7a561180-940c-4d2d-b603-bd8aaede99de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>a0cd7f9a-9ea7-4aaa-a37b-0c1a174a8d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                                    LIMA' or . = '
+                                    LIMA')]</value>
+      <webElementGuid>8ad3585f-f2f8-4d91-ae03-50043143cdf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

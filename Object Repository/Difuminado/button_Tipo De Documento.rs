@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tipo De Documento</name>
+   <tag></tag>
+   <elementGuidId>91f03971-e651-4463-9ff2-41cfff122b1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#quien_recibe > div.row > div.col-md-3.cls_element_item.first_item > div.btn-group.bootstrap-select.form-control.msg_alert_tt > button.btn.dropdown-toggle.form-control.selectpicker.btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ccfe3488-3b4a-496a-bd85-1429e4d653fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>55ca9c3e-e154-480e-b8d4-4c1d9dd080bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle form-control selectpicker btn-default</value>
+      <webElementGuid>14513b11-2087-4a7c-9c9a-64596f1b8eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>ebc363bb-a605-4266-82fb-3c02c43628fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>cbo_consignado_iddocumento</value>
+      <webElementGuid>19b229fc-0110-42b9-b8d9-51a35e48f913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tipo De Documento</value>
+      <webElementGuid>b9e6e05d-7983-431b-b1fc-22a93e034758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo De Documento </value>
+      <webElementGuid>7404e883-b108-4019-a6d3-5f54782bd903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quien_recibe&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 cls_element_item first_item&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]</value>
+      <webElementGuid>72740123-affc-42e2-9e95-5395327ba02e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>d4d79782-75f9-4520-90f5-58591132159a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_recibe']/div[2]/div[2]/div/button</value>
+      <webElementGuid>56d59e4c-236f-4536-a9b7-4ac76248fdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Quién recibe?'])[1]/following::button[1]</value>
+      <webElementGuid>adc70102-2b46-4054-95ff-e94a557b7f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Si'])[2]/following::button[2]</value>
+      <webElementGuid>e3d69947-f0e2-439b-962d-41fe1eb0355f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo De Documento'])[5]/preceding::button[1]</value>
+      <webElementGuid>59af4d05-4c26-43b6-ac80-c070e492c27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div[2]/div/button</value>
+      <webElementGuid>c2a90c2a-0f8c-4371-a10c-23d3e4ac6a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Tipo De Documento' and (text() = 'Tipo De Documento ' or . = 'Tipo De Documento ')]</value>
+      <webElementGuid>5d16d9a5-83ef-4d3b-aa78-aa28b2aa8b2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

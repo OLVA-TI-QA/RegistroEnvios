@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_QAQA</name>
+   <tag></tag>
+   <elementGuidId>9ed9f978-3970-4524-a3bd-4069fc831939</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#div_ape_pat_dif > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div_ape_pat_dif']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>434052f9-725d-4b96-9c65-8f22066c6983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QAQA</value>
+      <webElementGuid>a2750ac0-c099-4511-a089-5cddfcb85225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_ape_pat_dif&quot;)/span[1]</value>
+      <webElementGuid>75fcb6c8-e17e-4e0e-aa77-f6e1a7f0963f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_ape_pat_dif']/span</value>
+      <webElementGuid>38c29ac8-b6c7-47a3-ad3d-0a7c74f75238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARNÉ EXT.'])[2]/following::span[2]</value>
+      <webElementGuid>da222ffb-caa8-45f0-b139-bf139c60894e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUC'])[2]/following::span[4]</value>
+      <webElementGuid>0ac50e65-d8cb-4681-a0c2-af527993dc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/preceding::span[2]</value>
+      <webElementGuid>8a63c76c-5393-4223-8ef4-0a4731f3e891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validación del primer apellido'])[1]/preceding::span[2]</value>
+      <webElementGuid>8647c5bc-6bfb-455f-8173-5138b3fce4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QAQA']/parent::*</value>
+      <webElementGuid>7b970fa1-59e2-480a-b169-42cf749cf5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]/div/span</value>
+      <webElementGuid>72622486-02ef-4e3a-a3ba-1abe1a1c91fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'QAQA' or . = 'QAQA')]</value>
+      <webElementGuid>4c527541-2043-41c7-8885-a078437d4df8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

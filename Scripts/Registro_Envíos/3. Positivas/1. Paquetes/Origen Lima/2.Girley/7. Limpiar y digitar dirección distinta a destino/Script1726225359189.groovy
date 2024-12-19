@@ -51,6 +51,14 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/a_L
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/input_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_PuntLlegad'), 'san borja', FailureHandling.STOP_ON_FAILURE)
