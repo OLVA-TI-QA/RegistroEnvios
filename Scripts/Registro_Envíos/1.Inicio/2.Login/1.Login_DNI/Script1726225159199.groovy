@@ -21,14 +21,12 @@ WebUI.click(findTestObject('Registro de envíos/Test cases/1-Principal/button_Ti
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/span_DNI'))
 
-WebUI.setText(findTestObject('Registro de envíos/Test cases/1-Principal/input_CE'), 
-    '71735764')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/1-Principal/input_CE'), '71735768')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/div_ValidPrimerApe'), 
     0)
 
-WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/input_ApePatDNI'), 
-    'chavez')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/input_ApePatDNI'), 'saravia')
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/button_Validar'))
 

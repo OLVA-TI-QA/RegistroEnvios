@@ -23,83 +23,57 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_so
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/2.Log_DNI-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_valor'), '12')
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/valorados/Page_Olva Courier  Datos Personales/button_Ingrese el punto de partida'))
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/valorados/Page_Olva Courier  Datos Personales/a_TRUJILLO'))
 
-WebUI.click(findTestObject('Object Repository/span_Ingrese el punto de llegada'))
+WebUI.click(findTestObject('Object Repository/Difuminado/span_Ingrese el punto de llegada'))
 
-WebUI.click(findTestObject('Object Repository/span_AMAZONAS - BAGUA - BAGUA'))
+WebUI.click(findTestObject('D, O, DO/span_AMAZONAS - BAGUA - BAGUA'))
 
-WebUI.click(findTestObject('Object Repository/span_Tipo de entrega'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/a_Recojo en tienda'))
+WebUI.scrollToElement(findTestObject('Object Repository/Difuminado/span_Tipo de entrega'), 0)
 
-WebUI.click(findTestObject('Object Repository/span_Tienda'))
+WebUI.click(findTestObject('Object Repository/Difuminado/span_Tipo de entrega'))
 
-WebUI.click(findTestObject('Object Repository/span_BAGUA CHICA - BAGUA - PJ ALFONSO UGARTE NRO 171 BAGUA CHICA'))
+WebUI.click(findTestObject('Object Repository/Difuminado/a_Recojo en tienda'))
 
-WebUI.click(findTestObject('Object Repository/span_Tipo De Documento'))
+WebUI.click(findTestObject('Object Repository/Difuminado/span_Tienda'))
 
-WebUI.click(findTestObject('Object Repository/a_DNI'))
+WebUI.click(findTestObject('D, O, DO/span_BAGUA CHICA - BAGUA - PJ ALFONSO UGARTE NRO 171 BAGUA CHICA'))
 
-WebUI.setText(findTestObject('Object Repository/input_CARN EXT_txt_consignado_dni'), '12345678')
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/button_cntnuar(1)'))
+WebUI.click(findTestObject('Object Repository/Difuminado/button_Tipo De Documento'))
 
-WebUI.click(findTestObject('Object Repository/a_AGREGAR ENVOS'))
+WebUI.click(findTestObject('Object Repository/Difuminado/a_DNI'))
 
-WebUI.click(findTestObject('Object Repository/img_Envo de cajas o paquetescon un peso mxi_37770f'))
+WebUI.setText(findTestObject('Object Repository/Difuminado/input_CARN EXT_txt_consignado_dni'), '12345678')
 
-WebUI.click(findTestObject('Object Repository/button_cntnuar'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/span_ (1)'))
+WebUI.verifyElementNotChecked(findTestObject('Object Repository/Difuminado/span_QAQA'), 0)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'PRUEBa')
+WebUI.click(findTestObject('Object Repository/Difuminado/button_CONTINUAR (1)'))
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '2')
+WebUI.click(findTestObject('Object Repository/Difuminado/button_IR A PAGAR S 7.30'))
 
-WebUI.rightClick(findTestObject('Object Repository/span_Ingrese el punto de llegada'))
+WebUI.setText(findTestObject('Object Repository/Difuminado/input_Tienes envos con recojo en tienda, se_b85f5d'), '1')
 
-WebUI.click(findTestObject('Object Repository/span_Ingrese el punto de llegada'))
+WebUI.setText(findTestObject('Object Repository/Difuminado/input_Tienes envos con recojo en tienda, se_af5936'), '2')
 
-WebUI.setText(findTestObject('Object Repository/input_Ingrese el punto de llegada_form-control'), 'san miguel')
+WebUI.setText(findTestObject('Object Repository/Difuminado/input_Tienes envos con recojo en tienda, se_653975'), '3')
 
-WebUI.click(findTestObject('Object Repository/span_LIMA - LIMA - SAN MIGUEL'))
+WebUI.setText(findTestObject('Object Repository/Difuminado/input_Tienes envos con recojo en tienda, se_8615a0'), '4')
 
-WebUI.click(findTestObject('Object Repository/span_He ledo y acepto los_checkmark'))
+WebUI.click(findTestObject('Object Repository/Difuminado/b_Aceptar'))
 
-WebUI.click(findTestObject('Object Repository/a_Entrega a domicilio'))
-
-WebUI.setText(findTestObject('Object Repository/input_dir_entreg'), 'SAN MIGUEL')
-
-WebUI.sendKeys(findTestObject('Object Repository/input_dir_entreg'), Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/input_dir_ref'), 'FGHJk')
-
-WebUI.click(findTestObject('Object Repository/button_TipDocument'))
-
-WebUI.click(findTestObject('Object Repository/a_RUC'))
-
-WebUI.setText(findTestObject('Object Repository/input_CARN EXT_txt_consignado_dni'), '12345678909')
-
-WebUI.click(findTestObject('Object Repository/button_cntnuar(1)'))
-
-WebUI.click(findTestObject('Object Repository/button_IR A PAGAR S 22.80'))
-
-WebUI.setText(findTestObject('Object Repository/input_Tienes envos con recojo en tienda, se_b85f5d'), '1')
-
-WebUI.setText(findTestObject('Object Repository/input_Tienes envos con recojo en tienda, se_af5936'), '2')
-
-WebUI.setText(findTestObject('Object Repository/input_Tienes envos con recojo en tienda, se_653975'), '3')
-
-WebUI.setText(findTestObject('Object Repository/input_Tienes envos con recojo en tienda, se_8615a0'), '4')
-
-WebUI.click(findTestObject('Object Repository/center_Aceptar'))
-
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_TDC'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_Efectivo'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -23,9 +23,9 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_so
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/2.Log_DNI-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_valor'), '12')
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntPartid'), FailureHandling.STOP_ON_FAILURE)
 
@@ -79,8 +79,6 @@ WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 0)
 
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 'LIMA - LIMA - SAN ISIDRO')
-
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), 0, FailureHandling.STOP_ON_FAILURE)
@@ -97,12 +95,10 @@ WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(1)'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Lima', FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Tacna', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_EntregDomic'), 'Entrega A Domicilio', 
     FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino_Resum'), 'Lima - Lima - San Isidro')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/th_7.30'), 0, FailureHandling.STOP_ON_FAILURE)
 

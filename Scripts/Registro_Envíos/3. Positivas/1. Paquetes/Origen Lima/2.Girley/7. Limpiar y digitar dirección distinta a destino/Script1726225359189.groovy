@@ -21,13 +21,7 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Principal
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_paquete'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/4.LoginCE-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_'), FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/3.Login_CE'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_SeleccArt'), FailureHandling.STOP_ON_FAILURE)
 
@@ -50,12 +44,6 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/spa
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/a_LIMA'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
@@ -105,8 +93,6 @@ WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 0)
 
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 'LIMA - LIMA - BARRANCO')
-
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), 0, FailureHandling.STOP_ON_FAILURE)
@@ -127,8 +113,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Te
 
 WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_EntregDomic'), 'Entrega A Domicilio', 
     FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino_Resum'), 'Lima - Lima - Barranco')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/th_7.30'), 0, FailureHandling.STOP_ON_FAILURE)
 

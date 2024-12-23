@@ -91,7 +91,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(1)'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Lima', FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Jauja', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_EntregDomic'), 'Recojo En Tienda', 
     FailureHandling.STOP_ON_FAILURE)
@@ -125,5 +125,5 @@ WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/G
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/Girley/b_Aceptar'))
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_Tienda'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_TDC'), [:], FailureHandling.STOP_ON_FAILURE)
 

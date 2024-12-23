@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/spa
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_artic'), 'PRUEBA1', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_val'), '1234', FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_val'), '12', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_larg'), '12', FailureHandling.STOP_ON_FAILURE)
 
@@ -50,15 +50,14 @@ WebUI.setText(findTestObject('Object Repository/Registro de envíos/cargo adjunt
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_LIMA - LIMA - MIRAFLORES'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Tipo de entrega'), 
+    0)
+
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Tipo de entrega'))
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/a_Recojo en tienda'))
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Tienda'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_LARCOMAR - MIRAFLORES - MC DE LA RESER_44bceb'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_LARCOMAR - MIRAFLORES - MC DE LA RESER_44bceb'))
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_OLVA MIRAFLORES - AV. COMANDANTE ESPIN_8deea8'))
 
@@ -99,6 +98,9 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_Aceptar'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR S 17.30'), 
+    0)
+
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR S 17.30'))
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/input_Tienes envos con recojo en tienda, se_b85f5d'), 
@@ -132,6 +134,4 @@ WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Te
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_NroPedid'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(2)'), FailureHandling.STOP_ON_FAILURE)
 

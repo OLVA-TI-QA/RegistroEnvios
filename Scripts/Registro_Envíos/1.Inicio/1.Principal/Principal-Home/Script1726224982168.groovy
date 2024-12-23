@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dev-registrodeenvios.olvacourier.com/principal')
+WebUI.navigateToUrl('https://dev01-registrodeenvios.olvacourier.com/principal')
 
 WebUI.maximizeWindow()
 

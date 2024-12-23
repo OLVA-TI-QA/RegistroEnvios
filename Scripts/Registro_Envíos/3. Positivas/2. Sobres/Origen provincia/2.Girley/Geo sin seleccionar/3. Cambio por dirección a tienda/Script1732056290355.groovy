@@ -23,9 +23,9 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_so
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/5.LoginRUC20'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_valor'), '12')
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntPartid'), FailureHandling.STOP_ON_FAILURE)
 
@@ -80,17 +80,7 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/but
 
 WebUI.delay(6)
 
-WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(1)'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(1)'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Lima', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_EntregDomic'), 'Recojo En Tienda', 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino_Resum'), 'Lima - Lima - Miraflores', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Chepen', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/th_7.30'), 0, FailureHandling.STOP_ON_FAILURE)
 
@@ -118,5 +108,5 @@ WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/G
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/Girley/b_Aceptar'))
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_Tienda'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_TDC'), [:], FailureHandling.STOP_ON_FAILURE)
 

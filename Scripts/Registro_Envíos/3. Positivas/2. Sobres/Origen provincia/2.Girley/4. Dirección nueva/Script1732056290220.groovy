@@ -25,9 +25,9 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/6.LoginRUC10'
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_valor'), '12')
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntPartid'), FailureHandling.STOP_ON_FAILURE)
 
@@ -75,7 +75,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(1)'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Lima', FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_lima'), 'Ica', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_EntregDomic'), 'Entrega A Domicilio', 
     FailureHandling.STOP_ON_FAILURE)

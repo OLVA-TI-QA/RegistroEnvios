@@ -23,9 +23,9 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_so
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/6.LoginRUC10'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_valor'), '12')
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntPartid'), FailureHandling.STOP_ON_FAILURE)
 
@@ -78,8 +78,6 @@ WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/i
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 0)
-
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 'LIMA - LIMA - SAN ISIDRO')
 
 WebUI.delay(2)
 

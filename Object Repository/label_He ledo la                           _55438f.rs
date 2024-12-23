@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='op_regulacion']/ul/label</value>
+         <value>//*[@id=&quot;op_regulacion&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>265f8a85-d602-4888-930d-d46d2e0c5dc2</webElementGuid>
+      <webElementGuid>e5f8129a-bb64-418e-99c7-552c873f9c29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>chk_regulacion</value>
-      <webElementGuid>7cf5c7fd-267e-46b8-b930-b8029f622fbb</webElementGuid>
+      <webElementGuid>c4b4a316-c2d9-4231-a80f-7b02dfd530aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
                                 regulación de envíos y la declaración Jurada.
                                 
                             </value>
-      <webElementGuid>9708d438-238f-4ce9-91c8-66698e6814f8</webElementGuid>
+      <webElementGuid>5e80a98b-9f74-4b88-abd2-3f860044f9e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;op_regulacion&quot;)/ul[@class=&quot;buttons&quot;]/label[1]</value>
-      <webElementGuid>34f59019-e01f-4bef-a094-fd15b5a04320</webElementGuid>
+      <webElementGuid>442f5984-2bf9-4bdc-a4aa-15e573a1f37b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='op_regulacion']/ul/label</value>
-      <webElementGuid>9530b84e-86c9-4a38-b671-b55806ca04b9</webElementGuid>
+      <webElementGuid>07f23c66-34b3-4544-b46f-e47600234dab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 1234.00'])[2]/following::label[1]</value>
-      <webElementGuid>b2172aad-3d32-4af8-98c6-694fe0ca66fe</webElementGuid>
+      <webElementGuid>e61781c9-cf90-45e8-9c59-2dc14b1406a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DFGHJK'])[2]/following::label[1]</value>
-      <webElementGuid>af72b099-9b1a-4274-8a5e-90e64db8741e</webElementGuid>
+      <webElementGuid>9ff88fd0-0199-4093-b2d5-f8e4e6f4771b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaro bajo juramento los productos escritos en el registro de envíos.'])[1]/preceding::label[1]</value>
-      <webElementGuid>6ee75979-be07-4db7-8e85-96ac41210aca</webElementGuid>
+      <webElementGuid>376536d5-7730-4686-9b8d-2df46f6a8503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
-      <webElementGuid>b2adcc0d-d32a-404b-993c-78cb6fbe8bf3</webElementGuid>
+      <webElementGuid>e572abe0-b5ca-4291-b75e-2df8229f048d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
                                 regulación de envíos y la declaración Jurada.
                                 
                             ')]</value>
-      <webElementGuid>e10a29b3-ab93-4796-8edd-86195c030745</webElementGuid>
+      <webElementGuid>ef9f6c1e-8481-4def-baf9-76d21921853a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 1234.00'])[1]/following::label[1]</value>
-      <webElementGuid>177c6a54-7992-4fb2-ad1e-0763ed05f1c6</webElementGuid>
+      <webElementGuid>d5566cf8-4064-4982-bcca-3cf0cd1152c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GHJ'])[1]/following::label[1]</value>
-      <webElementGuid>b7991ba5-9507-44bd-a411-642ec76f9148</webElementGuid>
+      <webElementGuid>7862bc29-a130-46e5-b164-449f0c08cb35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

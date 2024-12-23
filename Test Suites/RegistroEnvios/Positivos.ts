@@ -124,44 +124,37 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>064cf3f7-36a9-4b77-894b-6ff3af51b9e6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/3. Destinos D, DO y O/4.Editar</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>3fe4afae-defa-41ee-a04c-dd23995b177b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/4. Valorados/Entrega_Domicilio/1.Paquetes_CE_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6f8fa113-5d9e-4eeb-b5a9-7f54e8a43920</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/4. Valorados/Entrega_Domicilio/2.Sobres_RUC_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f6caf0f9-040d-4a65-b20b-2d408be0decf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/4. Valorados/Entrega_Domicilio/4.Valorado_CargoAdj</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ed6b5c93-1e8e-486e-b2ae-c2007fb7554f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/4. Valorados/Entrega_Domicilio/5.EditarValorado</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>94a94ff0-ca61-42e9-a3af-b186124899f1</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/4. Valorados/Entrega_Domicilio/6.Declarac_Jurada501</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -313,44 +306,37 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c622059e-eae4-4e43-bd0c-e2327a26be21</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/3. Destinos D, DO y O/4.Editar</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>4d87025b-2c91-4c05-8575-368ccc69056a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/4. Valorados/Entrega_Domicilio/1.Paquetes_CE_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ecc2fb9c-b8c6-47e1-a986-bfef4d6b70ad</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/4. Valorados/Entrega_Domicilio/2.Sobres_RUC_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7fe7b665-d00e-4bad-909d-833fca18f01c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/4. Valorados/Entrega_Domicilio/4.Valorado_CargoAdj</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7ca67655-858f-4ac9-b2d9-af2449e4ad76</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/4. Valorados/Entrega_Domicilio/5.EditarValorado</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8e923f73-4ca2-4806-8d53-d33f20941fcc</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/4. Valorados/Entrega_Domicilio/6.Declarac_Jurada501</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -467,44 +453,37 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ac38c3d6-7b99-47c1-ad99-e520a2e598a3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/3. Destinos D, DO y O/4.Editar</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>ee656228-abc6-478b-aa1b-b92f85b51875</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/4. Valorados/Entrega_Domicilio/1.Paquetes_CE_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>24633c63-9d73-4598-a280-0b6d47664b62</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/4. Valorados/Entrega_Domicilio/2.Sobres_RUC_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>481c9211-8115-4fcc-891f-1e258d300a7f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/4. Valorados/Entrega_Domicilio/4.Valorado_CargoAdj</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f857b391-0caf-441e-a3a6-96200d5181de</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/4. Valorados/Entrega_Domicilio/5.EditarValorado</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>776de668-f703-4b27-8645-4c3844ad7e2e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/4. Valorados/Entrega_Domicilio/6.Declarac_Jurada501</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -691,44 +670,37 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e639db68-8d67-475c-b82d-3dadf2bc8b6f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/3. Destinos D, DO y O/4.Editar</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>3adb316c-4959-41b8-81e7-081f3e6357cf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/4. Valorados/Entrega_Domicilio/1.Paquetes_CE_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>dbb8d570-2855-4550-b09b-78dd2ba6ad21</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/4. Valorados/Entrega_Domicilio/2.Sobres_RUC_tdc</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>21682123-0e37-482c-b358-bfd09616d846</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/4. Valorados/Entrega_Domicilio/4.Valorado_CargoAdj</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c573f473-b496-466f-b2b1-58e7909944f9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/4. Valorados/Entrega_Domicilio/5.EditarValorado</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f7f6a958-b594-4fe5-8fe6-c8f2d9c5d3c2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/4. Valorados/Entrega_Domicilio/6.Declarac_Jurada501</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

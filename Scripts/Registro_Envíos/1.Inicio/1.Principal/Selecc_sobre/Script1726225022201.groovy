@@ -19,14 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Principal-Home'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/img_Envo de cajas o paquetescon un peso mxi_37770f'))
+WebUI.click(findTestObject('Difuminado/img_Envo de cajas o paquetescon un peso mxi_37770f'))
 
 WebUI.click(findTestObject('Registro de envíos/Test cases/1-Principal/span_Acept_check'))
 
-WebUI.click(findTestObject('Registro de envíos/Test cases/1-Principal/button_CONTINUAR'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/Girley/button_CONTINUE'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Verifys/div_RE'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Verifys/div_RE'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Verifys/span_Inicio'), 0)
 
