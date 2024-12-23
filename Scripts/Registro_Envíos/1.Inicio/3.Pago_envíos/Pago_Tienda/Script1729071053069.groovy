@@ -35,5 +35,3 @@ WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Te
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_NroPedid'), 0, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_cntnuar(2)'), FailureHandling.STOP_ON_FAILURE)
-

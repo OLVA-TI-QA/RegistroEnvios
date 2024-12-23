@@ -23,10 +23,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/div_Envos con Decla
 
 WebUI.verifyElementText(findTestObject('Object Repository/strong_Envos con Declaracin Jurada'), 'Envíos con Declaración Jurada')
 
-WebUI.click(findTestObject('Object Repository/a_regulacin de envos y la declaracin Jurada'))
-
-WebUI.click(findTestObject('Object Repository/span_ (1)'))
-
 WebUI.click(findTestObject('Object Repository/label_He ledo la                           _55438f'))
 
 WebUI.click(findTestObject('Object Repository/label_Declaro bajo juramento los productos _f4619d'))

@@ -23,15 +23,13 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_so
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/4.LoginCE-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'GHJK')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_valor'), '12')
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Ingrese el punto de partida'))
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/a_LIMA'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Ingrese el punto de llegada'))
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
@@ -54,11 +52,10 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_Tienda'))
 
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_LARCOMAR - MIRAFLORES - MC DE LA RESER_44bceb'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_LARCOMAR - MIRAFLORES - MC DE LA RESER_44bceb'))
-
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_OLVA MIRAFLORES - AV. COMANDANTE ESPIN_8deea8'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_No'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/span_No'))
 
@@ -89,15 +86,10 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/span_OLVA CANTA CALLAO - CALLAO - AV OFICIN_2e9f2e'))
 
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/span_CALLAO - CALLAO - CALLAO'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/span_LIMA - LIMA - ATE'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_Tienda'))
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/span_AGENTE OLVA ATE - PLAZA VITARTE BRI ST_5abd40'))
-
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_Aceptar'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR S 17.30'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/cargo adjunto/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR S 17.30'))
 

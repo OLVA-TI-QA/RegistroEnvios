@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Principal
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_paquete'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/4.LoginCE-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/3.Login_CE'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_SeleccArt'), FailureHandling.STOP_ON_FAILURE)
 
@@ -43,15 +43,9 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/spa
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/a_LIMA'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/input_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
 
@@ -72,13 +66,13 @@ WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_dir_entreg'), 'Los Eucaliptos, 555 - San Isidro, Lima', 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Registro de envíos/Test cases/Girley/ClickFuera'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/Girley/ClickFuera'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/input_dir_ref'), 0, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_dir_ref'), 'ABC', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2)
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), 0, FailureHandling.STOP_ON_FAILURE)
 
@@ -103,7 +97,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/th_0.00'), 0, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/button_IR A PAGAR S 7.30'))
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/button_IR A PAGAR S 7.30'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_TDC'), [:], FailureHandling.STOP_ON_FAILURE)
 

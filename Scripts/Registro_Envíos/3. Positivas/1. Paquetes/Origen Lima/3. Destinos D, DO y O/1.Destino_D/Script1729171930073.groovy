@@ -27,23 +27,21 @@ WebUI.click(findTestObject('Object Repository/span_Seleccionar artculo'))
 
 WebUI.click(findTestObject('Object Repository/a_CAJA'))
 
-WebUI.setText(findTestObject('Object Repository/input_pqte_artic'), 'FGHJK')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_artic'), 'PRUEBA1', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_pqte_val'), '12')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_val'), '13', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_pqte_larg'), '13')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_larg'), '12', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_pqte_anch'), '14')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_anch'), '14', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_pqte_alt'), '15')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_alt'), '15', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_pqte_peso'), '1')
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_peso'), '1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntPartid'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/a_LIMA'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/span_Ingrese el punto de llegada'))
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
@@ -53,55 +51,68 @@ WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/spa
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/span_Ingrese el punto de llegada'))
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Ingrese el punto de llegada_form-control'), 'aramango')
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/input_PuntLlegad'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_PuntLlegad'), 'aramango', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.scrollToElement(findTestObject('Object Repository/span_AMAZONAS - BAGUA - ARAMANGO'), 0)
 
 WebUI.click(findTestObject('Object Repository/span_AMAZONAS - BAGUA - ARAMANGO'))
 
-WebUI.setText(findTestObject('Object Repository/input_dir_entreg'), 'ARAMANGO DIRECCIÓN DE PRUEBa')
-
-WebUI.sendKeys(findTestObject('Object Repository/input_dir_entreg'), Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Registro de envíos/Test cases/input_dir_entreg'), 'ARAMANGO DIRECCIÓN DE PRUEBa')
 
 WebUI.click(findTestObject('Object Repository/span_Entrega a domicilio'))
 
-WebUI.click(findTestObject('Object Repository/a_Recojo en tienda'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/Girley/a_Recojo en tienda'))
 
-WebUI.click(findTestObject('Object Repository/button_Aceptar'))
+WebUI.click(findTestObject('D, O, DO/button_Acept_D'))
 
 WebUI.click(findTestObject('Object Repository/span_Entrega a domicilio'))
 
-WebUI.click(findTestObject('Object Repository/a_EntregDomic'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/a_EntregDomic'))
 
-WebUI.setText(findTestObject('Object Repository/input_dir_ref'), 'PRUEBa')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/input_dir_entreg'), 'ARAMANGO DIRECCIÓN DE PRUEBa')
 
-WebUI.click(findTestObject('Object Repository/span_Tipo De Documento'))
+WebUI.setText(findTestObject('Registro de envíos/Test cases/input_dir_ref'), 'PRUEBa')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), 0, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/span_CARN EXT'))
 
-WebUI.setText(findTestObject('Object Repository/input_CARN EXT_txt_consignado_dni'), '003680378')
+WebUI.setText(findTestObject('Difuminado/input_CARN EXT_txt_consignado_dni'), '003680378')
 
-WebUI.click(findTestObject('Object Repository/button_cntnuar(1)'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/button_cntnuar(1)'))
 
 WebUI.click(findTestObject('Object Repository/a_AGREGAR ENVOS'))
 
-WebUI.click(findTestObject('Object Repository/img_Envo de cajas o paquetescon un peso mxi_37770f'))
+WebUI.click(findTestObject('Difuminado/img_Envo de cajas o paquetescon un peso mxi_37770f'))
 
-WebUI.click(findTestObject('Object Repository/button_cntnuar'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/button_cntnuar'))
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_descripcion'), 'PRUEBA')
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/input_Qu Envas_input_valor'), '12')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/div_PROMCOLAB'), 0, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/span_Ingrese el punto de llegada'))
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/span_'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/input_Ingrese el punto de llegada_form-control'), 'punta negra')
+WebUI.setText(findTestObject('Difuminado/input_Qu Envas_input_descripcion'), 'PRUEBA')
+
+WebUI.setText(findTestObject('Difuminado/input_Qu Envas_input_valor'), '12')
+
+WebUI.click(findTestObject('Difuminado/span_Ingrese el punto de llegada'))
+
+WebUI.setText(findTestObject('Registro de envíos/cargo adjunto/Page_Olva Courier  Datos Personales/input_Ingrese el punto de llegada_form-control'), 
+    'punta negra')
 
 WebUI.click(findTestObject('Object Repository/a_LIMA - LIMA - PUNTA NEGRA'))
 
-WebUI.setText(findTestObject('Object Repository/input_dir_entreg'), 'PUNTA NEGRa')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/input_dir_entreg'), 'PUNTA NEGRa')
 
-WebUI.setText(findTestObject('Object Repository/input_dir_ref'), 'PRUEBa')
+WebUI.setText(findTestObject('Registro de envíos/Test cases/input_dir_ref'), 'PRUEBa')
 
 WebUI.click(findTestObject('Object Repository/span_No'))
 
@@ -109,25 +120,25 @@ WebUI.click(findTestObject('Object Repository/a_Si'))
 
 WebUI.click(findTestObject('Object Repository/span_Entrega a domicilio'))
 
-WebUI.click(findTestObject('Object Repository/a_Recojo en tienda'))
+WebUI.click(findTestObject('Difuminado/a_Recojo en tienda'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/div_No se encontr oficinas en el destino se_5eeb82'), 0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/p_No se encontr oficinas en el destino sele_1183e7'), 'No se encontró oficinas en el destino seleccionado.')
 
-WebUI.click(findTestObject('Object Repository/button_Aceptar'))
+WebUI.click(findTestObject('D, O, DO/button_Acept_D'))
 
-WebUI.click(findTestObject('Object Repository/span_Tipo De Documento'))
+WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), 0, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/button_TipDocument'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/a_RUC'))
 
-WebUI.setText(findTestObject('Object Repository/input_CARN EXT_txt_consignado_dni'), '12345678909')
+WebUI.setText(findTestObject('Difuminado/input_CARN EXT_txt_consignado_dni'), '12345678909')
 
-WebUI.click(findTestObject('Object Repository/button_cntnuar(1)'))
+WebUI.click(findTestObject('Registro de envíos/Test cases/button_cntnuar(1)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/th_EntregDomic'), 'Entrega a domicilio')
-
-WebUI.verifyElementText(findTestObject('Object Repository/th_amazonas - bagua - aramango'), 'amazonas - bagua - aramango')
+WebUI.scrollToElement(findTestObject('Object Repository/button_IR A PAGAR S 33.79'), 0)
 
 WebUI.click(findTestObject('Object Repository/button_IR A PAGAR S 33.79'))
 
