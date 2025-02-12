@@ -55,6 +55,8 @@ WebUI.click(findTestObject('Object Repository/Difuminado/span_OLVA LINCE - AV. A
 
 WebUI.delay(2)
 
+WebUI.scrollToElement(findTestObject('Object Repository/Difuminado/button_Tipo De Documento'), 0)
+
 WebUI.click(findTestObject('Object Repository/Difuminado/button_Tipo De Documento'))
 
 WebUI.click(findTestObject('Object Repository/Difuminado/a_DNI'))

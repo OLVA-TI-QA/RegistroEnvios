@@ -27,7 +27,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/i'))
 
-WebUI.delay(2)
+WebUI.delay(4)
 
 WebUI.click(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/button_Continuar (1)'))
 
@@ -47,7 +47,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Registro de envíos/Test cases/
     Keys.chord('12'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/input_compras por internet_expiry'), 
-    Keys.chord('24'))
+    Keys.chord('25'))
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/input_compras por internet_cvc'), 
     '111')

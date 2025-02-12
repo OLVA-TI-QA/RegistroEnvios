@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Principal
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/1.Principal/Selecc_sobre'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/2.Log_DNI-Colab'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/2.Login/1.Login_DNI'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Registro de envíos/Test cases/Girley/input_Qu Envas_input_descripcion'), 'GHJK')
 

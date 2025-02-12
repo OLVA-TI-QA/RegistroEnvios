@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>5c89a33e-2cfa-412b-8345-90e66be8e06e</webElementGuid>
+      <webElementGuid>05dc628b-e6e5-4fc7-ae4c-77f879f2f6f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;paymentMethods&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col col-11&quot;]/section[1]/label[@class=&quot;radio state-success&quot;]/i[1]</value>
-      <webElementGuid>bd84c0df-9e1d-4b34-9e19-fe6a5ec2cc29</webElementGuid>
+      <webElementGuid>3937000f-eb34-47fb-885d-69b0cffa2e10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Registro de envíos/Test cases/1-Principal/iframe_Aceptar_visaNetJS</value>
-      <webElementGuid>aba16906-7269-4392-8d32-e5e38ed891e9</webElementGuid>
+      <webElementGuid>e2282892-1f17-4475-a8fd-79689eb7da36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='paymentMethods']/div/div/section/label/i</value>
-      <webElementGuid>fbfd8aa0-2f66-424c-b23a-7918e990ff28</webElementGuid>
+      <webElementGuid>e4158b83-54f6-483b-84f1-53ad1e6b42a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/section/label/i</value>
-      <webElementGuid>56b60616-04d1-44a4-873f-f0c5ba159f7e</webElementGuid>
+      <webElementGuid>673378f1-ebbd-4b4f-9c3f-a72e0823f359</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

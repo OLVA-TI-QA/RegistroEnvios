@@ -27,9 +27,9 @@ WebUI.click(findTestObject('Object Repository/span_Seleccionar artculo'))
 
 WebUI.click(findTestObject('Object Repository/a_CAJA'))
 
-WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_artic'), 'PRUEBA1', FailureHandling.STOP_ON_FAILURE)
-
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_val'), '13', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_artic'), 'PRUEBA1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Registro de envíos/Test cases/input_pqte_larg'), '12', FailureHandling.STOP_ON_FAILURE)
 

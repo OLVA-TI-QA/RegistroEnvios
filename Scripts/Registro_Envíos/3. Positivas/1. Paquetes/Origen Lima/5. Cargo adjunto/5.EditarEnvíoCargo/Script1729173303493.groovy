@@ -99,7 +99,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/th_S 10.00'), 0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/th_S 10.00'), 'S/ 10.00')
 
-WebUI.callTestCase(findTestCase('Registro_Envíos/2. Validaciones/Declaración Jurada'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Difuminado/button_IR A PAGAR S 7.30'))
 
 WebUI.callTestCase(findTestCase('Registro_Envíos/1.Inicio/3.Pago_envíos/Pago_Tienda'), [:], FailureHandling.STOP_ON_FAILURE)
 

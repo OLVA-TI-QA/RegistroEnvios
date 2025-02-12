@@ -59,7 +59,7 @@ WebUI.delay(2)
 WebUI.sendKeys(findTestObject('Object Repository/Registro de envíos/Test cases/input_dir_entreg'), Keys.chord(Keys.ENTER), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(3)
+WebUI.delay(7)
 
 WebUI.scrollToElement(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino'), 0)
 

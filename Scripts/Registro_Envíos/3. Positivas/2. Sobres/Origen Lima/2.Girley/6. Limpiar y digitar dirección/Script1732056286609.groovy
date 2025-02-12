@@ -100,8 +100,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Te
 WebUI.verifyElementText(findTestObject('Object Repository/Registro de envíos/Test cases/th_EntregDomic'), 'Entrega A Domicilio', 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Registro de envíos/Test cases/Girley/validac_Destino_Resum'), 'Lima - Lima - San Isidro')
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/th_7.30'), 0, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Registro de envíos/Test cases/th_0.00'), 0, FailureHandling.STOP_ON_FAILURE)

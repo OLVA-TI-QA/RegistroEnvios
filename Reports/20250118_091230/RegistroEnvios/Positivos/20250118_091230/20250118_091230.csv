@@ -1,0 +1,263 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Positivos,,,,2025-01-18 09:12:36,2025-01-18 09:14:57,2m - 20.421s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/Geo sin seleccionar/6. Limpiar y digitar dirección,,,,2025-01-18 09:12:36,2025-01-18 09:12:39,2.550s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:37,2025-01-18 09:12:39,2.305s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/Geo sin seleccionar/5. Dirección distinta al destino,,,,2025-01-18 09:12:39,2025-01-18 09:12:40,1.536s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:39,2025-01-18 09:12:40,1.354s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/Geo sin seleccionar/4. Dirección nueva,,,,2025-01-18 09:12:40,2025-01-18 09:12:42,1.524s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:41,2025-01-18 09:12:42,1.369s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/Geo sin seleccionar/3. Cambio por dirección a tienda,,,,2025-01-18 09:12:42,2025-01-18 09:12:43,1.506s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:42,2025-01-18 09:12:43,1.347s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/Geo sin seleccionar/2. Dirección callao,,,,2025-01-18 09:12:43,2025-01-18 09:12:45,1.444s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:44,2025-01-18 09:12:45,1.275s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/Geo sin seleccionar/1.Destin_Lima,,,,2025-01-18 09:12:45,2025-01-18 09:12:46,1.467s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:45,2025-01-18 09:12:46,1.296s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/7. Limpiar y digitar dirección distinta a destino,,,,2025-01-18 09:12:46,2025-01-18 09:12:48,1.539s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:47,2025-01-18 09:12:48,1.360s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/6. Limpiar y digitar dirección,,,,2025-01-18 09:12:48,2025-01-18 09:12:49,1.502s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:48,2025-01-18 09:12:49,1.327s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/5. Dir_distint_dest,,,,2025-01-18 09:12:49,2025-01-18 09:12:51,1.547s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:50,2025-01-18 09:12:51,1.394s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/4. Direcc_nueva,,,,2025-01-18 09:12:51,2025-01-18 09:12:52,1.507s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:51,2025-01-18 09:12:52,1.360s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/3.Camb_Dir_Tienda,,,,2025-01-18 09:12:52,2025-01-18 09:12:54,1.484s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:53,2025-01-18 09:12:54,1.347s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/2.Direccion_callao,,,,2025-01-18 09:12:54,2025-01-18 09:12:55,1.453s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:54,2025-01-18 09:12:55,1.310s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/2.Girley/1.Destin_Lima,,,,2025-01-18 09:12:55,2025-01-18 09:12:57,1.440s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:56,2025-01-18 09:12:57,1.281s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/3. Destinos D, DO y O/1.Destino_D",,,,2025-01-18 09:12:57,2025-01-18 09:12:58,1.438s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:57,2025-01-18 09:12:58,1.285s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/3. Destinos D, DO y O/2.Destino_O",,,,2025-01-18 09:12:58,2025-01-18 09:13:00,1.448s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:12:58,2025-01-18 09:13:00,1.300s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/3. Destinos D, DO y O/3.Destino_DO",,,,2025-01-18 09:13:00,2025-01-18 09:13:01,1.438s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:00,2025-01-18 09:13:01,1.281s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/1.Paquetes_CE_tdc,,,,2025-01-18 09:13:01,2025-01-18 09:13:03,1.540s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:01,2025-01-18 09:13:03,1.383s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/2.Sobres_DNI_PagoO,,,,2025-01-18 09:13:03,2025-01-18 09:13:04,1.469s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:03,2025-01-18 09:13:04,1.282s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/5.EditarEnvíoCargo,,,,2025-01-18 09:13:04,2025-01-18 09:13:06,1.426s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:04,2025-01-18 09:13:06,1.271s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/6.EditarCargo_Domic,,,,2025-01-18 09:13:06,2025-01-18 09:13:07,1.462s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:06,2025-01-18 09:13:07,1.319s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/7.EditarCargo_Tienda,,,,2025-01-18 09:13:07,2025-01-18 09:13:09,1.421s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:07,2025-01-18 09:13:08,1.274s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/Geo sin seleccionar/6. Limpiar y digitar dirección,,,,2025-01-18 09:13:09,2025-01-18 09:13:10,1.446s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:09,2025-01-18 09:13:10,1.309s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/Geo sin seleccionar/5. Dirección distinta al destino,,,,2025-01-18 09:13:10,2025-01-18 09:13:11,1.509s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:10,2025-01-18 09:13:11,1.360s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/Geo sin seleccionar/4. Dirección nueva,,,,2025-01-18 09:13:11,2025-01-18 09:13:13,1.560s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:12,2025-01-18 09:13:13,1.380s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/Geo sin seleccionar/3. Cambio por dirección a tienda,,,,2025-01-18 09:13:13,2025-01-18 09:13:14,1.401s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:13,2025-01-18 09:13:14,1.263s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/Geo sin seleccionar/2. Dirección callao,,,,2025-01-18 09:13:14,2025-01-18 09:13:16,1.418s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:15,2025-01-18 09:13:16,1.286s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/Geo sin seleccionar/1.Destin_Lima,,,,2025-01-18 09:13:16,2025-01-18 09:13:17,1.406s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:16,2025-01-18 09:13:17,1.270s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/7. Limpiar y digitar dirección distinta a destino,,,,2025-01-18 09:13:17,2025-01-18 09:13:19,1.544s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:17,2025-01-18 09:13:19,1.389s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/6. Limpiar y digitar dirección,,,,2025-01-18 09:13:19,2025-01-18 09:13:20,1.398s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:19,2025-01-18 09:13:20,1.261s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/5. Dirección distinta al destino,,,,2025-01-18 09:13:20,2025-01-18 09:13:22,1.642s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:21,2025-01-18 09:13:22,1.331s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/4. Dirección nueva,,,,2025-01-18 09:13:22,2025-01-18 09:13:23,1.480s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:22,2025-01-18 09:13:23,1.332s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/3. Cambio por dirección a tienda,,,,2025-01-18 09:13:23,2025-01-18 09:13:25,1.508s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:23,2025-01-18 09:13:25,1.373s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/2.Direccion_callao,,,,2025-01-18 09:13:25,2025-01-18 09:13:26,1.496s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:25,2025-01-18 09:13:26,1.349s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/2.Girley/1.Destin_Lima,,,,2025-01-18 09:13:26,2025-01-18 09:13:28,1.411s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:26,2025-01-18 09:13:28,1.267s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/3. Destinos D, DO y O/1.Destino_D",,,,2025-01-18 09:13:28,2025-01-18 09:13:29,1.434s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:28,2025-01-18 09:13:29,1.283s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/3. Destinos D, DO y O/2.Destino_O",,,,2025-01-18 09:13:29,2025-01-18 09:13:31,1.409s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:29,2025-01-18 09:13:31,1.267s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/3. Destinos D, DO y O/3.Destino_DO",,,,2025-01-18 09:13:31,2025-01-18 09:13:32,1.545s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:31,2025-01-18 09:13:32,1.406s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/Geo sin seleccionar/6. Limpiar y digitar dirección,,,,2025-01-18 09:13:32,2025-01-18 09:13:34,1.488s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:32,2025-01-18 09:13:34,1.361s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/Geo sin seleccionar/5. Dirección distinta al destino,,,,2025-01-18 09:13:34,2025-01-18 09:13:35,1.472s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:34,2025-01-18 09:13:35,1.340s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/Geo sin seleccionar/4. Dirección nueva,,,,2025-01-18 09:13:35,2025-01-18 09:13:37,1.476s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:35,2025-01-18 09:13:37,1.326s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/Geo sin seleccionar/3. Cambio por dirección a tienda,,,,2025-01-18 09:13:37,2025-01-18 09:13:38,1.434s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:37,2025-01-18 09:13:38,1.305s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/Geo sin seleccionar/2. Dirección callao,,,,2025-01-18 09:13:38,2025-01-18 09:13:40,1.555s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:38,2025-01-18 09:13:40,1.398s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/Geo sin seleccionar/1.Destin_Lima,,,,2025-01-18 09:13:40,2025-01-18 09:13:41,1.461s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:40,2025-01-18 09:13:41,1.329s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/7. Limpiar y digitar dirección distinta a destino,,,,2025-01-18 09:13:41,2025-01-18 09:13:43,1.720s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:41,2025-01-18 09:13:43,1.503s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/6. Limpiar y digitar dirección,,,,2025-01-18 09:13:43,2025-01-18 09:13:44,1.499s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:43,2025-01-18 09:13:44,1.323s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/5. Dirección distinta al destino,,,,2025-01-18 09:13:44,2025-01-18 09:13:46,1.464s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:44,2025-01-18 09:13:46,1.292s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/4. Dirección nueva,,,,2025-01-18 09:13:46,2025-01-18 09:13:47,1.500s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:46,2025-01-18 09:13:47,1.314s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/3. Cambio por dirección a tienda,,,,2025-01-18 09:13:47,2025-01-18 09:13:49,1.419s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:47,2025-01-18 09:13:49,1.291s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/2.Direccion_callao,,,,2025-01-18 09:13:49,2025-01-18 09:13:50,1.502s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:49,2025-01-18 09:13:50,1.311s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/2.Girley/1.Destin_Lima,,,,2025-01-18 09:13:50,2025-01-18 09:13:52,1.407s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:50,2025-01-18 09:13:52,1.258s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/3. Destinos D, DO y O/1.Destino_D",,,,2025-01-18 09:13:52,2025-01-18 09:13:53,1.505s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:52,2025-01-18 09:13:53,1.261s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/3. Destinos D, DO y O/2.Destino_O",,,,2025-01-18 09:13:53,2025-01-18 09:13:55,1.452s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:53,2025-01-18 09:13:55,1.316s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/3. Destinos D, DO y O/3.Destino_DO",,,,2025-01-18 09:13:55,2025-01-18 09:13:56,1.483s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:55,2025-01-18 09:13:56,1.347s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/5. Cargo adjunto/1.Paquetes_CE_tdc,,,,2025-01-18 09:13:56,2025-01-18 09:13:57,1.458s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:56,2025-01-18 09:13:57,1.273s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/5. Cargo adjunto/2.Sobres_DNI_PagoO,,,,2025-01-18 09:13:57,2025-01-18 09:13:59,1.496s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:58,2025-01-18 09:13:59,1.363s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/5. Cargo adjunto/5.EditarEnvíoCargo,,,,2025-01-18 09:13:59,2025-01-18 09:14:00,1.492s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:13:59,2025-01-18 09:14:00,1.354s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/5. Cargo adjunto/6.EditarCargo_Domic,,,,2025-01-18 09:14:00,2025-01-18 09:14:02,1.549s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:01,2025-01-18 09:14:02,1.385s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/5. Cargo adjunto/7.EditarCargo_Tienda,,,,2025-01-18 09:14:02,2025-01-18 09:14:04,1.518s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:02,2025-01-18 09:14:04,1.378s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/1.Paquetes_CE_tdc,,,,2025-01-18 09:14:04,2025-01-18 09:14:05,1.352s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:04,2025-01-18 09:14:05,1.348s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/2.Sobres_DNI_PagoO,,,,2025-01-18 09:14:05,2025-01-18 09:14:06,1.282s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:05,2025-01-18 09:14:06,1.277s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/5.EditarEnvíoCargo,,,,2025-01-18 09:14:06,2025-01-18 09:14:08,1.375s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:06,2025-01-18 09:14:08,1.371s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/6.EditarCargo_Domic,,,,2025-01-18 09:14:08,2025-01-18 09:14:20,12.177s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:08,2025-01-18 09:14:09,1.277s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/5. Cargo adjunto/7.EditarCargo_Tienda,,,,2025-01-18 09:14:20,2025-01-18 09:14:21,1.324s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:20,2025-01-18 09:14:21,1.319s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/Geo sin seleccionar/6. Limpiar y digitar dirección,,,,2025-01-18 09:14:21,2025-01-18 09:14:23,1.484s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:21,2025-01-18 09:14:23,1.298s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/Geo sin seleccionar/5. Dirección distinta al destino,,,,2025-01-18 09:14:23,2025-01-18 09:14:24,1.410s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:23,2025-01-18 09:14:24,1.283s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/Geo sin seleccionar/4. Dirección nueva,,,,2025-01-18 09:14:24,2025-01-18 09:14:25,1.498s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:24,2025-01-18 09:14:25,1.363s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/Geo sin seleccionar/3. Cambio por dirección a tienda,,,,2025-01-18 09:14:25,2025-01-18 09:14:27,1.454s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:26,2025-01-18 09:14:27,1.266s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/Geo sin seleccionar/2. Dirección callao,,,,2025-01-18 09:14:27,2025-01-18 09:14:28,1.411s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:27,2025-01-18 09:14:28,1.284s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/Geo sin seleccionar/1.Destin_Lima,,,,2025-01-18 09:14:28,2025-01-18 09:14:30,1.403s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:28,2025-01-18 09:14:30,1.276s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/7. Limpiar y digitar dirección distinta a destino,,,,2025-01-18 09:14:30,2025-01-18 09:14:31,1.537s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:30,2025-01-18 09:14:31,1.367s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/6. Limpiar y digitar dirección,,,,2025-01-18 09:14:31,2025-01-18 09:14:33,1.451s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:31,2025-01-18 09:14:33,1.304s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/5. Dirección distinta al destino,,,,2025-01-18 09:14:33,2025-01-18 09:14:34,1.544s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:33,2025-01-18 09:14:34,1.400s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/4. Dirección nueva,,,,2025-01-18 09:14:34,2025-01-18 09:14:36,1.445s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:34,2025-01-18 09:14:36,1.314s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/3. Cambio por dirección a tienda,,,,2025-01-18 09:14:36,2025-01-18 09:14:37,1.486s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:36,2025-01-18 09:14:37,1.340s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/2.Direccion_callao,,,,2025-01-18 09:14:37,2025-01-18 09:14:39,1.397s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:37,2025-01-18 09:14:39,1.263s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/2.Girley/1.Destin_Lima,,,,2025-01-18 09:14:39,2025-01-18 09:14:40,1.459s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:39,2025-01-18 09:14:40,1.326s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/3. Destinos D, DO y O/1.Destino_D",,,,2025-01-18 09:14:40,2025-01-18 09:14:42,1.500s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:40,2025-01-18 09:14:42,1.369s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/3. Destinos D, DO y O/2.Destino_O",,,,2025-01-18 09:14:42,2025-01-18 09:14:43,1.476s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:42,2025-01-18 09:14:43,1.347s,FAILED
+,,,,,,,
+"Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/3. Destinos D, DO y O/3.Destino_DO",,,,2025-01-18 09:14:43,2025-01-18 09:14:45,1.575s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:43,2025-01-18 09:14:45,1.400s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/6. Difuminado Consignado/Difumind_CE,,,,2025-01-18 09:14:45,2025-01-18 09:14:46,1.491s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:45,2025-01-18 09:14:46,1.343s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen provincia/6. Difuminado Consignado/Difuminad_DNI,,,,2025-01-18 09:14:46,2025-01-18 09:14:48,1.496s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:46,2025-01-18 09:14:48,1.369s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/6. Difuminado Consignado/Difumind_CE,,,,2025-01-18 09:14:48,2025-01-18 09:14:49,1.405s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:48,2025-01-18 09:14:49,1.265s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/2. Sobres/Origen Lima/6. Difuminado Consignado/Difuminad_DNI,,,,2025-01-18 09:14:49,2025-01-18 09:14:50,1.406s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:49,2025-01-18 09:14:50,1.278s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/6. Difuminado Consignado/Difumind_CE,,,,2025-01-18 09:14:50,2025-01-18 09:14:52,1.643s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:51,2025-01-18 09:14:52,1.467s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen provincia/6. Difuminado Consignado/Difuminad_DNI,,,,2025-01-18 09:14:52,2025-01-18 09:14:54,1.526s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:52,2025-01-18 09:14:54,1.380s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/6. Difuminado Consignado/Difuminad_DNI,,,,2025-01-18 09:14:54,2025-01-18 09:14:55,1.378s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:54,2025-01-18 09:14:55,1.245s,FAILED
+,,,,,,,
+Test Cases/Registro_Envíos/3. Positivas/1. Paquetes/Origen Lima/6. Difuminado Consignado/Difumind_CE,,,,2025-01-18 09:14:55,2025-01-18 09:14:57,1.552s,FAILED
+"callTestCase(findTestCase(""Registro_Envíos/1.Inicio/1.Principal/Principal-Home""), [:], STOP_ON_FAILURE)",,,,2025-01-18 09:14:55,2025-01-18 09:14:57,1.403s,FAILED

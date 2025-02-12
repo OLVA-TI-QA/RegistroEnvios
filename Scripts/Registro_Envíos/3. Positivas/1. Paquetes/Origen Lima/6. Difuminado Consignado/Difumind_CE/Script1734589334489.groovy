@@ -80,6 +80,8 @@ WebUI.delay(3)
 
 WebUI.verifyElementNotChecked(findTestObject('Object Repository/Difuminado/span_QAQA'), 0)
 
+WebUI.scrollToElement(findTestObject('Object Repository/Difuminado/button_CONTINUAR (1)'), 0)
+
 WebUI.click(findTestObject('Object Repository/Difuminado/button_CONTINUAR (1)'))
 
 WebUI.click(findTestObject('Object Repository/Difuminado/button_IR A PAGAR S 7.30'))
