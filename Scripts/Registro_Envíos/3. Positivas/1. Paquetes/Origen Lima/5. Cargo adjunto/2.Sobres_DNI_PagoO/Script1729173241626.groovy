@@ -80,9 +80,13 @@ WebUI.setText(findTestObject('Registro de envíos/cargo adjunto/Page_Olva Courie
 
 WebUI.click(findTestObject('Registro de envíos/Test cases/button_cntnuar(1)'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementPresent(findTestObject('div_Direccin de devolucin del cargo'), 0)
 
 WebUI.verifyElementText(findTestObject('th_S 10.00'), 'S/ 10.00')
+
+WebUI.delay(3)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Registro de envíos/Test cases/1-Principal/button_IR A PAGAR S 7.30'), 
     0)

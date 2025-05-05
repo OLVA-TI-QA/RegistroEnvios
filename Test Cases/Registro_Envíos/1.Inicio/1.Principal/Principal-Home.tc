@@ -4,5 +4,6 @@
    <name>Principal-Home</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>00f023b7-6f56-438e-89d9-47a15e75cd9e</testCaseGuid>
 </TestCaseEntity>

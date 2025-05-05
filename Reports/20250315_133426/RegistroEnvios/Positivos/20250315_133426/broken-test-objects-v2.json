@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Registro de envíos/Test cases/span_CorreoPrevnt",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div[2]/fieldset/div/div[2]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027REGISTRO DE ENVÍOS\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250315_133426/RegistroEnvios/Positivos/20250315_133426/Object Repository/Registro de envíos/Test cases/span_CorreoPrevnt_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Registro de envíos/Test cases/th_lima",
+      "brokenLocator": "//table[@id\u003d\u0027blueTable\u0027]/tbody/tr/th[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Entrega a domicilio\u0027])[1]/following::th[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250315_133426/RegistroEnvios"
+    }
+  ]
+}

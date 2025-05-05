@@ -4,5 +4,6 @@
    <name>2.Sobres_DNI_PagoO</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>48c03476-ae6c-4750-993f-527a906c9b74</testCaseGuid>
 </TestCaseEntity>

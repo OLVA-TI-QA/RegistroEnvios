@@ -4,8 +4,12 @@
    <name>RegistroEnvios</name>
    <tag></tag>
    <UUID>f87958d6-1083-49d9-b0f1-bd775d6d2bfb</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>F:\Git\RegistroEnvios\RegistroEnvios.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
